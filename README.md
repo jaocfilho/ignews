@@ -21,6 +21,7 @@ Check posts lists
 Preview post
 ![Post-preview](https://by3302files.storage.live.com/y4mBVQ5W-uu959uz8d3D3uPAVAbpfO3AuUAj-D-lXa_FVrYCt9UGDYxeQ_39sz42wfhxGU7cFex7jCT6uh4g_GndWvB_9BvlnubSsv8Yd9rE6tI4s7OUyJL9qoDkkCkz9ovWUJjyj9UH5hKxnpBRH5Qym0FmlSH9Kef15Ah4uybFHTFT9hq2Ayfb2Pf8yYq6co6?width=2560&height=1080&cropmode=none)
 
+Login with Github and
 Pay for subscription
 ![Checkout](https://by3302files.storage.live.com/y4miDPs9YrBIpbXqw9Ltz0EKjbMkWcOYThr7FEJrzR8WeQp8iEb3b_Y0G2WrEOoVLeaueDuqiK7PUvSTinWj8nSk-nmxzZADWTRihWueS4lq6ueeOwhgpgLqyYVfu1sv0Z53-6u_HgQ_-4bqzHOpSPLLjywN3zAtoWOOUoR18R3qY5_vKUaI1HuN1g4CLfB-J-p?width=2560&height=1080&cropmode=none)
 
